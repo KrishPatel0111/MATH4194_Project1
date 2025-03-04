@@ -1,2 +1,1 @@
-# MATH4194_Project1
-This is project 1 of Math 4194
+You can run these files in your preferred editor but make sure that the Python version is at least Python 3.13.1
